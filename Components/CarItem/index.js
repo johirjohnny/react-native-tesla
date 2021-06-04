@@ -13,7 +13,7 @@ const CarItem = (props) => {
                 source={image}
                 style={styles.image}
             />
-
+            //style items
             <View style={styles.titles}>
                 <Text style={styles.title}>{name}</Text>
                 <Text style={styles.subtitle}>{tagline}</Text>
